@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: ListView(
           children: [
-            // Load a Lottie file from a remote url
+            // Create by Md Mahabub Hasan :D
             Lottie.network(
                 'https://assets2.lottiefiles.com/packages/lf20_xkxecivz.json'),
             Lottie.network(
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                 'https://cdn.rive.app/animations/vehicles.riv',
               ),
             ),
-           
+
           ],
         ),
       ),
